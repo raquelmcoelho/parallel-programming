@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/count.dir/src/count.c.o -o bin/count 

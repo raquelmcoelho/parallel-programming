@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/barrier.dir/src/barrier.c.o -o bin/barrier 
