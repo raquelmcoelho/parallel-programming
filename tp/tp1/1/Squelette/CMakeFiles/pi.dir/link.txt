@@ -1,1 +1,0 @@
-/usr/bin/cc -rdynamic CMakeFiles/pi.dir/src/pi.c.o -o bin/pi 
