@@ -1,6 +1,0 @@
-/home/raquel/Documents/2Semester/parallele/tp/tp1/1/Squelette/CMakeFiles/serial.dir
-/home/raquel/Documents/2Semester/parallele/tp/tp1/1/Squelette/CMakeFiles/barrier.dir
-/home/raquel/Documents/2Semester/parallele/tp/tp1/1/Squelette/CMakeFiles/count.dir
-/home/raquel/Documents/2Semester/parallele/tp/tp1/1/Squelette/CMakeFiles/pi.dir
-/home/raquel/Documents/2Semester/parallele/tp/tp1/1/Squelette/CMakeFiles/edit_cache.dir
-/home/raquel/Documents/2Semester/parallele/tp/tp1/1/Squelette/CMakeFiles/rebuild_cache.dir
